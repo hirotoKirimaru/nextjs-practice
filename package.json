@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "12.1.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "next": "^15.5.28",
+    "react": "^19.1.10",
+    "react-dom": "^19.1.10"
+  },
+  "resolutions": {
+    "**/postcss": "^8.5.31"
   }
 }
